@@ -1,0 +1,35 @@
+body {
+    background: rgb(212, 155, 155);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 100px;
+}
+
+h1{
+    color: rgb(175, 5, 5);
+    font-family: cursive;
+}
+
+h2{
+    font-family: cursive;
+}
+
+p{
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img_padrao {/*A partir da classe, referencia-se somente quem possui o nome da classe, co caso o nome é "img_padrao"*/
+    margin-bottom: 20px;
+    width: 300px;;
+}
+
+.logo {
+    width: 30px;
+}
